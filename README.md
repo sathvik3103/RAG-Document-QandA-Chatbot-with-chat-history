@@ -3,4 +3,5 @@ This project is a Streamlit application that allows users to upload PDF document
 
 The Sample output of the application deployed on streamlit looks like: 
 
-Sample output.png
+[Sample output.png
+](https://github.com/sathvik3103/RAG-Document-QandA-Chatbot-with-chat-history/blob/main/Sample%20output.png)
